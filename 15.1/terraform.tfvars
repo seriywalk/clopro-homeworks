@@ -1,0 +1,5 @@
+yc_cloud_id = "b1gl8ve0e71kcg3tbapj"
+yc_folder_id = "b1g709q14ibltvag3ekd"
+yc_token = "y0_AgAAAABoK0cUAATuwQAAAADbFcLq_fFbXF1HTfGDijdKzitTETNxcUo"
+yc_zone = "ru-central1-a"
+ssh_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPYtDjQqlBFIc99zOGkbCWUslCNrG/PYd9DUQUemO03j dad@pcreg"
