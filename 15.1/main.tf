@@ -55,7 +55,8 @@ resource "yandex_compute_instance" "vms" {
 
   metadata = {
     serial-port-enable = 1
-    ssh-keys = var.ssh_key
+#    ssh-keys = var.ssh_key
+    user-data = "${file("users.txt")}"
   }
 }
 
